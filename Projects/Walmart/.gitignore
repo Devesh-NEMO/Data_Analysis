@@ -1,2 +1,4 @@
-.neon
+.env/
 node_modules/
+.env
+.venv/
