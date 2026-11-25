@@ -13,4 +13,4 @@ if not url or not key:
 
 supabase = create_client(url, key)
 
-print("Supabase client initialized successfully!")
+print("Supabase client initialized successfully!") 
